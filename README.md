@@ -42,6 +42,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cheapest Rubber Ducky](https://medium.com/@giacintocarlucci/the-cheapest-rubber-ducky-b2e95901d504?source=rss-af395a5d9662------2)
+- [The XMLHttpRequest Definitive guide](https://medium.com/@giacintocarlucci/xmlhttprquest-definitive-guide-e3a2fd7a85a4?source=rss-af395a5d9662------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@giacintocarlucci)
