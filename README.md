@@ -40,6 +40,9 @@
 
 <br />
 
+### 📊 This week I spent my time on
+![giacintocarlucci's stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=giacintocarlucci&hide_title=true&hide_border=true&langs_count=5)
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -48,3 +51,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@giacintocarlucci)
+
