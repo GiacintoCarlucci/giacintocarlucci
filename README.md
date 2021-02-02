@@ -44,7 +44,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Stop :q - ing Vim](https://medium.com/@giacintocarlucci/stop-q-ing-vim-6cda3009dfa6?source=rss-af395a5d9662------2)
-- [Hi! Glad to hear that Ulvi, your request makes sense, I’ll try to edit this article or make pt.](https://medium.com/@giacintocarlucci/hi-glad-to-hear-that-ulvi-your-request-makes-sense-ill-try-to-edit-this-article-or-make-pt-f2faac330570?source=rss-af395a5d9662------2)
 - [The Cheapest Rubber Ducky](https://medium.com/@giacintocarlucci/the-cheapest-rubber-ducky-b2e95901d504?source=rss-af395a5d9662------2)
 - [The XMLHttpRequest Definitive guide](https://medium.com/@giacintocarlucci/xmlhttprquest-definitive-guide-e3a2fd7a85a4?source=rss-af395a5d9662------2)
 - [Why Software Developers should have a blog](https://medium.com/@giacintocarlucci/why-software-developers-should-have-a-blog-d51bb48ee1e7?source=rss-af395a5d9662------2)
