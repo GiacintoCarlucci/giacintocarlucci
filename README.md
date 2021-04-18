@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on [Calendbook][project]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Reach 1000 commit per year
 - ⚡ Fun fact: I love to take [pictures][instagram] with vintage cameras
 
 [website]: https://www.giacintocarlucci.it
