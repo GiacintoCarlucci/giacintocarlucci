@@ -50,3 +50,7 @@
 
 ➡️ [more blog posts...](https://medium.com/@giacintocarlucci)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
