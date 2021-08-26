@@ -1,9 +1,9 @@
-name: Waka Readme
+name: Readme Stats
 
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -18,3 +18,4 @@ jobs:
           SHOW_LOC_CHART: False
           SHOW_SHORT_INFO: False
           SHOW_PROJECTS: False
+          SHOW_TIMEZONE : False
