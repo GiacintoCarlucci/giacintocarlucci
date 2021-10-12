@@ -38,13 +38,13 @@ Sunday       13 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -61,7 +61,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2021
+ Last Updated on 12/10/2021
 <!--END_SECTION:waka-->
 
 ### 📕 Latest Blog Posts
