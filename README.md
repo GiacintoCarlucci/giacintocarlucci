@@ -7,7 +7,7 @@
 [website]: https://www.giacintocarlucci.it
 [project]: https://www.calendbook.com
 [twitter]: https://twitter.com/giacintocarlucc
-[instagram]: https://instagram.com/giacintocarlucci
+[instagram]: https://instagram.com/giacintocarlucci/
 [linkedin]: https://linkedin.com/in/giacintocarlucci
 
 <!--START_SECTION:waka-->
