@@ -11,8 +11,6 @@
 [linkedin]: https://linkedin.com/in/giacintocarlucci
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2017%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -40,13 +38,14 @@ Sunday       23 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 13 mins       █████████████████████████   99.89% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      2 hrs 13 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
@@ -63,5 +62,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2022 18:06:28 UTC
+ Last Updated on 09/02/2022 12:13:09 UTC
 <!--END_SECTION:waka-->
