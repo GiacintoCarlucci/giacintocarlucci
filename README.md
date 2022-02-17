@@ -38,14 +38,13 @@ Sunday       23 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 13 mins       █████████████████████████   99.89% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      2 hrs 13 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 13 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -62,5 +61,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2022 12:12:46 UTC
+ Last Updated on 17/02/2022 12:12:21 UTC
 <!--END_SECTION:waka-->
